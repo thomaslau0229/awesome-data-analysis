@@ -1403,6 +1403,7 @@ A selection of curated Jupyter notebooks to support learning and exploration in 
 - [Huggingface Notebooks](https://github.com/huggingface/notebooks) - Official Hugging Face notebooks for NLP, vision, audio, and diffusion models.
 - [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Official Jupyter notebooks from François Chollet's Deep Learning with Python book.
 - [PythonNumericalDemos](https://github.com/GeostatsGuy/PythonNumericalDemos) - Python notebooks for geostatistics and numerical demonstrations.
+- [Reboot Hub Listed-Price Range Notebook](https://github.com/Reboot-Hub/dji-drone-specs-used-price-index/blob/main/notebooks/q3-2026-listed-price-range-analysis.ipynb) - Reproducible pandas and Matplotlib case study with version fingerprint checks, aggregate validation, and coverage/range plots for a single retailer's listed prices.
 
 [⬆ back to contents](#contents)
 
